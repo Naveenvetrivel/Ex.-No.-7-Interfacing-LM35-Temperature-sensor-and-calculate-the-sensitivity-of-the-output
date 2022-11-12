@@ -216,32 +216,23 @@ int main(){
  
 ## Tabulations and graph 
 Calculation of sensitivity 
-% of sensitivity is   S=  (T2-T1)/(A2-A1)*100
-
-
-
-
-SL NO	Temperature value in °C (T)	ADC VALUE (A)	Sensitivity 
-1			-
-2			
-3			
-4			
-5			
-6			
-7			
-8			
-9			
-10			
-
+### % of sensitivity is   S=  (T2-T1)/(A2-A1)*100
+![image](https://user-images.githubusercontent.com/94165322/201460229-af664fcb-4597-494a-8f60-aaa6ff2c7cf2.png)
 
  
-Figure -09 graph between temperature values and ADC output 
+### Figure -09 graph between temperature values and ADC output 
+![image](https://user-images.githubusercontent.com/94165322/201460242-a85548e2-5414-4b17-ba80-6ef372f4c50b.png)
+
+
+## Output screen shots :
+![WhatsApp Image 2022-11-12 at 09 29 46](https://user-images.githubusercontent.com/94165322/201460255-e766d599-7b2f-49a7-919f-adc6c197eaea.jpg)
+![WhatsApp Image 2022-11-12 at 09 29 46](https://user-images.githubusercontent.com/94165322/201460257-808c0183-4cfb-43ad-aaa3-d5183ccc847a.jpg)
+![WhatsApp Image 2022-11-12 at 09 29 45](https://user-images.githubusercontent.com/94165322/201460260-7a8fad08-a426-4499-b0c6-717a734c3708.jpg)
 
 
 ## Result :
 Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
 
-## Output screen shots :
 
 
 
